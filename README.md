@@ -4,13 +4,13 @@
 
 <p>В мой инструментарий входят:</p>
 
-<ul style= "list-style:none;">
+<ul type="none">
   <li>⚡HTML/CSS⚡</li>  
   <li>⚡JS⚡</li>  
   <li>⚡FLEX, GRID⚡</li>  
   <li>⚡GULP/WEBPACK⚡</li>  
   <li>⚡Различные препроцессоры: SCSS/SASS/LESS⚡</li>
-  <li>⚡БЭМ⚡/li> 
+  <li>⚡БЭМ⚡</li> 
 </ul>
 
 
