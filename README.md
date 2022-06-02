@@ -15,7 +15,7 @@
 <h2></h2>
 <h2>💬Связаться со мной:</h2>
 
-<a href="t.me/kulakovskyii">ddd</a>
+ <p> Телеграм: <a href="https://t.me/kulakovskyii/">kulakovskyii</a> </p>
 
 
 <!--
