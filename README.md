@@ -5,12 +5,12 @@
 <p>В мой инструментарий входят:</p>
 
 <ul style= "list-style:none;">
-  <li>⚡HTML/CSS</li>  
-  <li>⚡JS</li>  
-  <li>⚡FLEX, GRID</li>  
-  <li>⚡GULP/WEBPACK</li>  
-  <li>⚡Различные препроцессоры: SCSS/SASS/LESS</li>
-  <li>⚡БЭМ</li> 
+  <li>⚡HTML/CSS⚡</li>  
+  <li>⚡JS⚡</li>  
+  <li>⚡FLEX, GRID⚡</li>  
+  <li>⚡GULP/WEBPACK⚡</li>  
+  <li>⚡Различные препроцессоры: SCSS/SASS/LESS⚡</li>
+  <li>⚡БЭМ⚡/li> 
 </ul>
 
 
