@@ -11,6 +11,7 @@
   <li>⚡GULP/WEBPACK</li>  
   <li>⚡Различные препроцессоры: SCSS/SASS/LESS</li>
   <li>⚡БЭМ</li> 
+  <li>a href="https://github.com/kulakovskyi?tab=repositories">🛠Посмотреть все проэкты🛠</a></li>
 </ul>
 
 <h2></h2>
@@ -21,7 +22,7 @@
   <p valign="middle"> Инстаграм: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/1491579602-yumminkysocialmedia36_83067.png" width="15px" height="15px"/> <a href="https://www.instagram.com/kulakovskyii/">kulakovskyii</a> </p>
     <p valign="middle"> Почта: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/Gmail_23514.png" width="15px" height="15px"/> <a href="mailto:kulakovskyii@gmail.com">kulakovskyii@gmail.com</a> </p>
 
-<p><a href="https://github.com/kulakovskyi?tab=repositories">🛠Посмотреть все проэкты🛠</a></p>
+
 
 <!--
 **kulakovskyi/kulakovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
