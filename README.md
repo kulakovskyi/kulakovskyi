@@ -9,7 +9,7 @@
   <li>⚡JS</li>  
   <li>⚡FLEX, GRID</li>  
   <li>⚡GULP/WEBPACK</li>  
-  <li>⚡Различные препроцессоры: SCSS/SASS/LESS⚡</li>
+  <li>⚡Различные препроцессоры: SCSS/SASS/LESS</li>
   <li>⚡БЭМ</li> 
 </ul>
 <h2></h2>
