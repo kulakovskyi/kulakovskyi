@@ -23,7 +23,7 @@
     <p valign="middle"> Почта: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/Gmail_23514.png" width="15px" height="15px"/> <a href="mailto:kulakovskyii@gmail.com">kulakovskyii@gmail.com</a> </p>
 
 <h2>Ознакомится со всеми работами:</h2>
- <p><a href="https://github.com/kulakovskyi?tab=repositories">🛠Тыц сюда</a></p>
+ <p><a href="https://github.com/kulakovskyi?tab=repositories">🛠Смотреть все</a></p>
 
 
 <!--
