@@ -1,4 +1,8 @@
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+
 ### Hi there 👋
+
+
 
 <!--
 **kulakovskyi/kulakovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
