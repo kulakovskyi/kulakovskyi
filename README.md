@@ -12,8 +12,8 @@
   <li>⚡Различные препроцессоры: SCSS/SASS/LESS</li>
   <li>⚡БЭМ</li> 
 </ul>
-<h2></h2>
-<h2 valign="center"><a href="https://github.com/kulakovskyi?tab=repositories">Посмотреть все проэкты</a></h2>
+
+<h2><a href="https://github.com/kulakovskyi?tab=repositories">🛠Посмотреть все проэкты🛠</a></h2>
 
 <h2>💬Связаться со мной:</h2>
 
