@@ -2,16 +2,18 @@
 
 <h1>Привет, меня зовут Андрей!</h1>
 
-<p>В мой инструментарий входят:</p>
+<p>﻿В мой инструментарий входят:</p>
 
 <ul type="none">
-  <li>⚡HTML/CSS⚡</li>  
-  <li>⚡JS⚡</li>  
-  <li>⚡FLEX, GRID⚡</li>  
-  <li>⚡GULP/WEBPACK⚡</li>  
+  <li>⚡HTML/CSS</li>  
+  <li>⚡JS</li>  
+  <li>⚡FLEX, GRID</li>  
+  <li>⚡GULP/WEBPACK</li>  
   <li>⚡Различные препроцессоры: SCSS/SASS/LESS⚡</li>
-  <li>⚡БЭМ⚡</li> 
+  <li>⚡БЭМ</li> 
 </ul>
+
+<p>﻿Связаться со мной:</p>
 
 
 
