@@ -11,7 +11,7 @@
   <li>⚡GULP/WEBPACK</li>  
   <li>⚡Различные препроцессоры: SCSS/SASS/LESS</li>
   <li>⚡БЭМ</li> 
-  <li>a href="https://github.com/kulakovskyi?tab=repositories">🛠Посмотреть все проэкты🛠</a></li>
+  <li><a href="https://github.com/kulakovskyi?tab=repositories">🛠Посмотреть все проэкты🛠</a></li>
 </ul>
 
 <h2></h2>
