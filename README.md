@@ -1,4 +1,4 @@
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![image](https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif)
 
 ### Hi there 👋
 
