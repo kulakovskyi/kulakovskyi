@@ -2,8 +2,6 @@
 
 <h1>Привет, меня зовут Андрей!</h1>
 
- <p><a href="https://github.com/kulakovskyi?tab=repositories">🛠Посмотреть все проэкты🛠</a></p>
-
 <h2>💬В мой инструментарий входят:</h2>
 
 <ul type="none">
@@ -24,6 +22,8 @@
   <p valign="middle"> Инстаграм: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/1491579602-yumminkysocialmedia36_83067.png" width="15px" height="15px"/> <a href="https://www.instagram.com/kulakovskyii/">kulakovskyii</a> </p>
     <p valign="middle"> Почта: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/Gmail_23514.png" width="15px" height="15px"/> <a href="mailto:kulakovskyii@gmail.com">kulakovskyii@gmail.com</a> </p>
 
+<h3>Ознакомится со всеми работамиЖ</h3>
+ <p><a href="https://github.com/kulakovskyi?tab=repositories">🛠Тыц сюда</a></p>
 
 
 <!--
