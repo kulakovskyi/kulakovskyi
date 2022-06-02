@@ -1,4 +1,4 @@
-<p align="center">![image](https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif)</p>
+![image](https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif)
 
 ### Hi there 👋
 
