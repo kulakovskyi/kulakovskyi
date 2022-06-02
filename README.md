@@ -15,7 +15,7 @@
 <h2></h2>
 <h2>💬Связаться со мной:</h2>
 
- <p> Телеграм: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" /> <a href="https://t.me/kulakovskyii/">kulakovskyii</a> </p>
+ <p valign="middle"> Телеграм: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" width="5px" height="5px"/> <a href="https://t.me/kulakovskyii/">kulakovskyii</a> </p>
 
 
 <!--
