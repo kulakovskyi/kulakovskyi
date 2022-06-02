@@ -1,5 +1,18 @@
-<h3 align="center"> <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif" / ></p>
-### Hi there 👋
+<p align="center"> <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif" / ></p>
+
+<h1>Привет, меня зовут Андрей!</h1>
+
+<h2>В мой инструментарий входят:</h2>
+
+<ul>
+  <li>HTML/CSS</li>  
+  <li>JS</li>  
+  <li>FLEX, GRID</li>  
+  <li>GULP/WEBPACK</li>  
+  <li>Различные препроцессоры: SCSS/SASS/LESS</li>
+  <li>БЭМ</li> 
+</ul>
+
 
 
 
