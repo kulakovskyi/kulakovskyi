@@ -25,9 +25,7 @@
 <h2>Ознакомится со всеми работами:</h2>
  <p><a href="https://github.com/kulakovskyi?tab=repositories">🛠Смотреть все</a></p>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi)](https://github.com/kulakovskyi/github-readme-stats)
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kulakovskyi&show_icons=true)](https://github.com/kulakovskyi/github-readme-stats)
 
 
 
