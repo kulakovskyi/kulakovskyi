@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 15px;">
   <a href="https://t.me/kulakovskyii/" target="blank">
-    <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" width="40" height="30"/></a>
+    <img src="https://w7.pngwing.com/pngs/82/892/png-transparent-iphone-telegram-computer-icons-android-telegram-blue-angle-electronics.png" width="40" height="30"/></a>
   <a href="https://instagram.com/kulakovskyii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulakovskyii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrii-kulakovskyi-4295ba282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-kulakovskyi-4295ba282" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23082067/andrii-kulakovskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23082067/andrii-kulakovskyi" height="30" width="40" /></a>
