@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulakovkyi&label=Profile%20views&color=0e75b6&style=flat" alt="kulakovkyi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulakovkyi" alt="kulakovkyi" /></a> </p>
-
 - 🌱 I’m currently learning **Angular, Node.js, MongoDB, and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kulakovskyi?tab=repositories](https://github.com/kulakovskyi?tab=repositories)
@@ -18,8 +16,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&hide_progress=true)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/kulakovskyii/"><img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" width="40px" height="30px"/></a>
+<p align="left" style="display: flex; gap: 15px;">
+  <a href="https://t.me/kulakovskyii/" target="blank">
+    <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" width="40" height="30"/></a>
   <a href="https://instagram.com/kulakovskyii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulakovskyii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrii-kulakovskyi-4295ba282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-kulakovskyi-4295ba282" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23082067/andrii-kulakovskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23082067/andrii-kulakovskyi" height="30" width="40" /></a>
