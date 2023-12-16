@@ -15,15 +15,15 @@
 
 - ⚡ Fun fact **fun fact**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&exclude_repo=github-readme-stats,kulakovskyi.github.io)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulakovskyi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&hide_progress=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kulakovskyiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kulakovskyiii" height="30" width="40" /></a>
+  <a href="https://t.me/kulakovskyii/"><img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" width="40px" height="30px"/></a>
+  <a href="https://instagram.com/kulakovskyii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulakovskyii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrii-kulakovskyi-4295ba282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-kulakovskyi-4295ba282" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23082067/andrii-kulakovskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23082067/andrii-kulakovskyi" height="30" width="40" /></a>
-<a href="https://instagram.com/kulakovskyii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulakovskyii" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
