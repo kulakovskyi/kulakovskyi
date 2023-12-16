@@ -16,6 +16,7 @@
 - ⚡ Fun fact **fun fact**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&exclude_repo=github-readme-stats,kulakovskyi.github.io)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulakovskyi&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
