@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&hide_progress=true)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 15px;">
+<p align="left" style="display: flex; align-items: center">
   <a href="https://t.me/kulakovskyii/" target="blank">
     <img src="https://github.com/kulakovskyi/kulakovskyi/raw/main/assets/telegram_104163%20(1).png" width="40" height="40"/></a>
   <a href="https://instagram.com/kulakovskyii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulakovskyii" height="30" width="40" /></a>
