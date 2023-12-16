@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulakovkyi&label=Profile%20views&color=0e75b6&style=flat" alt="kulakovkyi" /> </p>
-
+<p align="center"> <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif" / ></p>
+</hr>
 - 🌱 I’m currently learning **Angular, Node.js, MongoDB, and more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kulakovskyi?tab=repositories](https://github.com/kulakovskyi?tab=repositories)
@@ -99,48 +99,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
        alt="mongodb" width="40" height="40"/> </a>  
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kulakovkyi&show_icons=true&locale=en&layout=compact" alt="kulakovkyi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulakovkyi&show_icons=true&locale=en" alt="kulakovkyi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kulakovkyi&" alt="kulakovkyi" /></p>
-
-
-
-
-
-<p align="center"> <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif" / ></p>
-
-<h1>Привет, меня зовут Андрей!</h1>
-
-<h2>💬В мой инструментарий входят:</h2>
-
-<ul type="none">
-  <li>⚡HTML/CSS</li>  
-  <li>⚡JS</li>  
-  <li>⚡FLEX, GRID</li>  
-  <li>⚡GULP/WEBPACK</li>  
-  <li>⚡Различные препроцессоры: SCSS/SASS/LESS</li>
-  <li>⚡БЭМ</li> 
- 
-</ul>
-
-<h2></h2>
-
-<h2>💬Связаться со мной:</h2>
-
- <p valign="middle"> Телеграм: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" width="15px" height="15px"/> <a href="https://t.me/kulakovskyii/">kulakovskyii</a> </p>
-  <p valign="middle"> Инстаграм: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/1491579602-yumminkysocialmedia36_83067.png" width="15px" height="15px"/> <a href="https://www.instagram.com/kulakovskyii/">kulakovskyii</a> </p>
-    <p valign="middle"> Почта: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/Gmail_23514.png" width="15px" height="15px"/> <a href="mailto:kulakovskyii@gmail.com">kulakovskyii@gmail.com</a> </p>
-
-<h2>Ознакомится со всеми работами:</h2>
- <p><a href="https://github.com/kulakovskyi?tab=repositories">🛠Смотреть все</a></p>
- 
-
-
-
 
 <!--
 **kulakovskyi/kulakovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
