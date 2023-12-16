@@ -16,6 +16,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&hide_progress=true)
 
 <h3 align="left">Connect with me:</h3>
+
+ <p valign="middle"> Telegram: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/telegram_104163%20(1).png" width="15px" height="15px"/> <a href="https://t.me/kulakovskyii/">kulakovskyii</a> </p>
+  <p valign="middle"> Instagram: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/1491579602-yumminkysocialmedia36_83067.png" width="15px" height="15px"/> <a href="https://www.instagram.com/kulakovskyii/">kulakovskyii</a> </p>
+    <p valign="middle"> Mail: <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/Gmail_23514.png" width="15px" height="15px"/> <a href="mailto:kulakovskyii@gmail.com">kulakovskyii@gmail.com</a> </p>
+        <p valign="middle"> Linkedin: <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15px" height="15px"/> <a href="https://linkedin.com/in/andrii-kulakovskyi-4295ba282">kulakovskyi</a> </p>
+
+
 <p align="left" style="display: flex; align-items: center">
   <a href="https://t.me/kulakovskyii/" target="blank">
     <img src="https://github.com/kulakovskyi/kulakovskyi/raw/main/assets/telegram_104163%20(1).png" width="40" height="40"/></a>
