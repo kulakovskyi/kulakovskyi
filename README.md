@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **fun fact**
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakovskyi&exclude_repo=github-readme-stats,kulakovskyi.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
