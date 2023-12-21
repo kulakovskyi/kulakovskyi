@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: [kulakovskyiii@gmail.com](mailto:kulakovskyiii@gmail.com)
 
-- 📄 Know about my experiences [kulakovslyi-portfolio](https://portfolio-angular-layout.web.app/)
+- 📄 Know about my experiences [kulakovskyi-portfolio](https://portfolio-angular-layout.web.app/)
 
 - ⚡ Fun fact: **fun fact**
 
