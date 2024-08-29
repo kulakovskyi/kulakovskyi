@@ -3,10 +3,6 @@
   <img src="https://github.com/kulakovskyi/kulakovskyi/blob/main/assets/5LSi.gif" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kulakovkyi&label=Profile%20views&color=0e75b6&style=flat" alt="kulakovkyi" />
-</p>
-
 <hr/>
 
 
